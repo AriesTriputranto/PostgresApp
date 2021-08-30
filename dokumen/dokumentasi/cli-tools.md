@@ -1,4 +1,4 @@
----
+---which psql
 layout: documentation
 title: Using Command Line Tools with Postgres.app
 ---
